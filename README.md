@@ -1,8 +1,11 @@
 👋 Hi, I’m @NetworkRock
 
-:construction_worker:Private projects I am currently on
+:construction_worker:Private projects
 * Poker Poll
+
+:construction_worker:Private projects I am currently on
 * Personal website
+* Stockmanager (secret repo)
 
 👀 I’m interested in 
 * How to code really good and clean
