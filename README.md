@@ -15,7 +15,8 @@
 * Redux
 * ESLint
 * Firebase
-* etc.
+* GraphQL
+* Node
 
 🌱 I’m currently learning 
 * How to type really fast
