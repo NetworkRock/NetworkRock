@@ -13,6 +13,7 @@
         }
 
         .container {
+          position: fixed;
           height: 100%;
           width: 100%;
 					font-family:
@@ -52,6 +53,7 @@
       
         main {
           display: flex;
+          flex: 2;
           flex-direction: row;
           left: -100em;
           padding: 1em;
