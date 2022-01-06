@@ -28,7 +28,6 @@
 						'Segoe UI Emoji';
 					display: flex;
 					flex-direction: column;
-          background: linear-gradient(-45deg, #6a82fb, #05dfd7);
 					margin: 0;
 					color: white;
 				}
