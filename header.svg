@@ -131,6 +131,7 @@
           <section id='books'>
             <h2>📚 Books I have read</h2>
               <ul>
+		<li>Clean Code by Robert C. Martin</li>
                 <li>The Software Craftsmen by Sandro Mancuso</li>
                 <li>The Clean Coder by Robert C. Martin</li>
 		<li>Test-Driven Development By Example by Kent Beck</li>
