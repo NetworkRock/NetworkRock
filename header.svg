@@ -93,39 +93,23 @@
           <div id='aboutMe'>
             <h1>About me</h1>
             <span>
-              I am a fullstack developer who is specialized in mobile, web and enterprise applications. Agile software
-              development, analysis and design, system architecture, coding/programming, implementation and testing describe my
-              daily work!
+              Currently diving into audio development. I am a fullstack developer who is specialized in mobile, web and enterprise applications.
             </span>
           </div>
         </header>
 
         <main>
-          <section id='projects'>
-            <h2>💻 Private projects</h2>
-              <ul>
-                <li>Personal website</li>
-                <li>Poker Poll</li>
-		<li>Advanced Tic-Tac-Toe</li>
-              </ul>
-            <h2>🌱 Im currently learning</h2>
-              <ul>
-                <li>How to type really fast</li>
-                <li>Socket.io</li>
-              </ul>
-          </section>
           <section id='learn'>
             <h2>👀 I’m interested in</h2>
             <ul>
               <li>How to code really good and clean</li>
+		<li>Recently diving into C++</li>
               <li>Typescript</li>
               <li>React</li>
               <li>React-Native</li>
               <li>Redux</li>
               <li>ESLint</li>
               <li>Firebase</li>
-              <li>GraphQL</li>
-              <li>Node</li>
             </ul>
           </section>
           <section id='books'>
