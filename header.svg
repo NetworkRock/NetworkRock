@@ -102,14 +102,14 @@
           <section id='learn'>
             <h2>👀 I’m interested in</h2>
             <ul>
-              <li>How to code really good and clean</li>
-		<li>Recently diving into C++</li>
-              <li>Typescript</li>
-              <li>React</li>
-              <li>React-Native</li>
-              <li>Redux</li>
-              <li>ESLint</li>
-              <li>Firebase</li>
+		    <li>How to code really good and clean</li>
+		    <li>Recently diving into C++ for audio processing</li>
+		    <li>Typescript</li>
+		    <li>React</li>
+		    <li>React-Native</li>
+		    <li>Redux</li>
+		    <li>ESLint</li>
+		    <li>Firebase</li>
             </ul>
           </section>
           <section id='books'>
